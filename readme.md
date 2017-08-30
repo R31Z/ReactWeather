@@ -3,5 +3,4 @@
 <br />
 
 ## React Weather Application
-
-### You can find and use the completed app here: http://aqueous-tundra-12909.herokuapp.com/#/?_k=iw0saf
+You can find and use the completed app here: http://aqueous-tundra-12909.herokuapp.com/#/?_k=iw0saf

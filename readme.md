@@ -1,4 +1,4 @@
-## React Weather Application
+## A Simple React Weather Application
 You can find the completed app at [Reiz's React Weather app](http://aqueous-tundra-12909.herokuapp.com/#/?_k=iw0saf) 
 <br />
 
